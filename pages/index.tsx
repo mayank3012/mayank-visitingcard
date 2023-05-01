@@ -8,7 +8,7 @@ export default function Home() {
     <>
       <Head>
         <title>
-          LM Softech | Visiting Card
+          Mayank | Visiting Card
         </title>
       </Head>
       <div className="flex justify-center items-center">

@@ -4,7 +4,7 @@ import React from 'react'
 const Main = () => {
     return (
         <div className='sm:rounded-t-3xl bg-[var(--themeColor)] text-white min-h-[12rem] relative transition-[background-colour] duration-300 will-change-[background-color] '>
-            <div className="sm:rounded-t-3xl bg-[url('/logo.jpg')] bg-center bg-cover relative w-full aspect-square">
+            <div className="sm:rounded-t-3xl bg-[url('/Logo.jpg')] bg-center bg-cover relative w-full aspect-square">
             </div>
             <div className='absolute bottom-[-2px] w-full'>
                 <svg className="w-full block" style={{ overflowClipMargin: 'content-Box' }} preserveAspectRatio="xMinYMax meet" viewBox="0 0 246 57" xmlns="http://www.w3.org/2000/svg">
